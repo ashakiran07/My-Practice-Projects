@@ -1,0 +1,39 @@
+# Currency Converter
+
+A simple web-based currency converter that allows users to convert between different currencies.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+- [License](#license)
+
+## Introduction
+
+This project is a basic currency converter implemented using HTML, CSS, and JavaScript. It fetches the latest currency exchange rates using an external API and allows users to convert amounts from one currency to another.
+
+## Features
+
+- Currency conversion between various currencies.
+- Real-time exchange rates update.
+- User-friendly interface with flag icons.
+
+## Getting Started
+
+To get started with this currency converter, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/ashakiran07/currency-converter.git
+
+2. Open the index.html file in your preferred web browser.
+
+3. Use the dropdowns to select the source and target currencies.
+
+4. Enter the amount to be converted in the "Enter Amount" input field.
+
+5. Click the "Get Exchange Rate" button to see the converted amount.
